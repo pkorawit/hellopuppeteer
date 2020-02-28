@@ -1,0 +1,1 @@
+ '//mir.aculo.us/dom-monster/dommonster.js?' + Math.floor((+new Date) / (864e5)); document.body.appendChild(script); })()javascript: (function () { var script = document.createElement('script'); script.src =
